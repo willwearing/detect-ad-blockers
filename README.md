@@ -28,3 +28,8 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+# References:
+- adblock-detect-react: https://github.com/aruniverse/adblock-detect-react
+- DetectAdBlock.js: https://gist.github.com/hotdang-ca/ed1c99feb92c6dc442d32a3c002678e7
+
